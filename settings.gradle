@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Login-Password-New_2.7.2"

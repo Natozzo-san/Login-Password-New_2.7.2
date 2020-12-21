@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login-Password-New_2.7.2</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="right">^_^</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="login2">login</string>
+    <string name="password2">password</string>
+    <string name="Create">Регистрация</string>
+    <string name="sigh_up">Войти</string>
+    <string name="nothing"></string>
+</resources>
